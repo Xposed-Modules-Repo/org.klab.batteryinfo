@@ -36,5 +36,5 @@ The information is now distributed across two sections in your device settings:
 
 ## Compatibility
 
-* **Devices**: Pixel 6 series and newer. You don't need this on Pixel 9a and later.
+* **Devices**: Pixel 6 series and newer. You don't need this on Pixel 9a and newer.
 * **OS**: Tested on Android 16 QPR3.
